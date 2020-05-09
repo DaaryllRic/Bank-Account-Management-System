@@ -1,5 +1,5 @@
 # Bank-Account-Management-System
-An object oriented bank account management system written in Java. A precursor to more complex object oriented projects.
+An object oriented bank account management system written in Java. No GUI as of yet. A precursor to more complex object oriented projects.
 
 ## Usage
 The BankAccount class has two constructors:
